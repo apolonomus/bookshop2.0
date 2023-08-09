@@ -1,0 +1,143 @@
+
+[ 
+  {
+    "id": 1,
+    "name":"On the Road",
+    "price":"10",
+    "img":"https://images.cdn1.buscalibre.com/fit-in/360x360/53/8e/538e257d53eedb315c25377977bdfc55.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 2,
+    "name":"Tal Vez Nunca",
+    "price":"3500",
+    "img":"https://images.cdn2.buscalibre.com/fit-in/360x360/3c/45/3c45f623cf371640a3a502b73b51653b.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 3,
+    "name":"La Elección",
+    "price":"9500",
+    "img":"https://images.cdn1.buscalibre.com/fit-in/360x360/58/41/5841d72dd577af501fdc09b372f287a7.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 4,
+    "name":"El Viento Conoce Mi Nombre",
+    "price":"9000",
+    "img":"https://images.cdn2.buscalibre.com/fit-in/360x360/0f/38/0f380f91f6d1394bf1506506ea323e7d.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 5,
+    "name":"Ruge o Espera a ser Devorado",
+    "price":"6210",
+    "img":"https://images.cdn2.buscalibre.com/fit-in/360x360/f9/34/f93436f497599e63a7ba193fadee5b0a.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 6,
+    "name":"El Nudo",
+    "price":"11600",
+    "img":"https://images.cdn2.buscalibre.com/fit-in/360x360/94/2c/942c6a78dc49e7f978ad226a1a383e74.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 7,
+    "name":"La Tercera",
+    "price":"6210",
+    "img":"https://images.cdn2.buscalibre.com/fit-in/360x360/ff/02/ff020d590d7738f4bedd9a299666455c.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 8,
+    "name":"Este Dolor no es mio",
+    "price":"7110",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/7b/3e/7b3e3bf022ba8d1e2c071b7f85e92d0b.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 9,
+    "name":"Sin Limites Mejora tus Capacidades",
+    "price":"7000",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/4c/28/4c28f44c2f3c2bbdf63c2a9cb41255f9.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 9,
+    "name":"Avatar de Estilo",
+    "price":"4500",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/e8/b7/e8b7a8526977ced7bed90eaedb1f4aa6.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 10,
+    "name":"7 Habitos de la Gente Altamente Efectiva",
+    "price":"8000",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/9b/7a/9b7ad75c0e5fcc05d47700055d30eccf.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 11,
+    "name":"7 Habitos de la Gente Altamente Efectiva",
+    "price":"8000",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/9b/7a/9b7ad75c0e5fcc05d47700055d30eccf.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 12,
+    "name":"7 Habitos de la Gente Altamente Efectiva",
+    "price":"8000",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/9b/7a/9b7ad75c0e5fcc05d47700055d30eccf.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 13,
+    "name":"7 Habitos de la Gente Altamente Efectiva",
+    "price":"8000",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/9b/7a/9b7ad75c0e5fcc05d47700055d30eccf.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 14,
+    "name":"7 Habitos de la Gente Altamente Efectiva",
+    "price":"8000",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/9b/7a/9b7ad75c0e5fcc05d47700055d30eccf.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 15,
+    "name":"7 Habitos de la Gente Altamente Efectiva",
+    "price":"8000",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/9b/7a/9b7ad75c0e5fcc05d47700055d30eccf.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 16,
+    "name":"7 Habitos de la Gente Altamente Efectiva",
+    "price":"8000",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/9b/7a/9b7ad75c0e5fcc05d47700055d30eccf.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 18,
+    "name":"Alas de Sangre",
+    "price":"8010",
+    "img":"https://images.cdn1.buscalibre.com/fit-in/360x360/08/59/0859687c02d0ffa743dcfb959bc8b194.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 19,
+    "name":"Elementos. La novela",
+    "price":"4950",
+    "img":"https://images.cdn1.buscalibre.com/fit-in/360x360/e5/59/e559648ca81378b015edae402a8492e5.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 20,
+    "name":"7 Habitos de la Gente Altamente Efectiva",
+    "price":"6561",
+    "img":"https://images.cdn3.buscalibre.com/fit-in/360x360/67/26/6726cfec95ab176f8e29a3317394b001.jpg",
+    "quanty": 1
+  }
+]

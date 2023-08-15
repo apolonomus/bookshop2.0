@@ -10,7 +10,7 @@ const Navbar = () => {
     const { cart } = useContext(dataContext);
     return (
             <nav>
-                <h1 className='navbar-logo'>APOLO</h1>
+                <Link className='navbar-logo' to={'/'}>APOLO</Link>
                 <div>
                     <ul id='navbar'>
                         <li>Home<a href='index.html'></a></li>

@@ -10,7 +10,7 @@ export default function ItemDetailContainer() {
             const response = await fetch('/data/products.json')
             const products = await response.json()
             const filterProducts =  products.find(product => product.id === parseInt (id))
-            setDetail(filterProduct)
+            setDetail(filterProducts)
         }
         getProduct()
     }, [id])

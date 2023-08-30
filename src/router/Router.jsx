@@ -17,6 +17,7 @@ import 'bootstrap/dist/css/bootstrap.css';
                     <Route path='/' element={<ItemListContainer />} />
                     <Route path='/category/:id' element={<ItemListContainer />} />
                     <Route path='/item/:id' element={<ItemDetailContainer />} />
+                    <Route path='/detail/:id' element={<ItemDetailContainer/>} />
                 </Routes>
             </BrowserRouter>
         )

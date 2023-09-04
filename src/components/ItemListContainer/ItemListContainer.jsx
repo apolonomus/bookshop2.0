@@ -30,7 +30,7 @@ export default function ItemListContainer  () {
                                 <Card.Img variant='top' src={item.img} />
                                 <Card.Title>{item.name}</Card.Title>
                                 <Card.Text>{item.description}</Card.Text>
-                                <Button variant='dark' to={`/item/${item.id} `}>View More</Button>
+                                <Button as={Link} variant='dark' to={`/item/${item.id} `}>View More</Button>
                                 </Card.Body>
                         </Card>
                     </Col>

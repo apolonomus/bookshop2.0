@@ -1,7 +1,4 @@
 
-06/09 SE agrego el FireBase al proyecto para que traiga los productos de la base de datos 
-
-
 <<<<<<< HEAD
 15/08   Actualización del Logo como Home 
         Arreglo de la base de Datos json
